@@ -1,4 +1,4 @@
-# A function to get music data from any playlist on Spotify. For this task, you need to install the Spotipy library, which is a Python library providing access to Spotify’s web API. Here’s how to install it on your system by writing the command mentioned below in your command prompt or terminal:
+# A function to get music data from any playlist on Spotify. Install the Spotipy library, which is a Python library providing access to Spotify’s web API.
 pip install spotipy
 
 import pandas as pd
